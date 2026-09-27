@@ -1,0 +1,11 @@
+{
+  "name": "media",
+  "displayName": "Медиа",
+  "version": "0.1.0",
+  "description": "Генерация картинок через Codex CLI: иллюстрации, стикеры, иконки, фоны, прозрачные PNG — сразу в правильную папку проекта",
+  "author": {
+    "name": "oblogin"
+  },
+  "repository": "https://github.com/oblogin/claude-skills",
+  "keywords": ["images", "image-generation", "codex", "stickers", "illustrations"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "claude-skills",
+  "description": "Личный маркетплейс скиллов и плагинов Claude Code (oblogin)",
+  "owner": {
+    "name": "oblogin"
+  },
+  "plugins": [
+    {
+      "name": "media",
+      "description": "Картинки и медиа: генерация иллюстраций, стикеров, иконок и фонов через Codex с сохранением в папку проекта",
+      "source": "./plugins/media",
+      "category": "productivity"
+    }
+  ]
+}
